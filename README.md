@@ -5,6 +5,7 @@
 This application features the ability to provide information about the network interfaces the current computer contains, including details such as name, speed, IP addresses, etc.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703317-36bbb300-2d91-11ea-9792-37655f8eb2c9.png)
 
 ## Application Compiling
 
